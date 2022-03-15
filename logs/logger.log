@@ -1,0 +1,10 @@
+2021-02-23 16:35:56,545 - asyncio - DEBUG - Using selector: SelectSelector
+2021-02-23 16:35:56,548 - root - INFO - start server timer
+2021-02-23 16:35:56,549 - root - INFO - server started port=:3000
+2021-02-23 16:35:56,549 - root - INFO - start master timer
+2021-02-23 16:35:56,549 - root - INFO - master started port=:3001
+2021-02-23 16:35:56,549 - root - INFO - chile:node0 Process start success
+2021-02-23 16:35:56,560 - root - INFO - node0 start child count:1
+2021-02-23 16:35:56,833 - tornado.access - INFO - 101 GET /ws?dialogId=node0 (127.0.0.1) 1.04ms
+2021-02-23 16:35:56,833 - root - INFO - master fd:<master.proxy_socket_handler.ProxySocketHandler object at 0x0000019271C73978> dialog:node0 addConnection!
+2021-02-23 16:35:56,833 - root - INFO - master fd:<master.proxy_socket_handler.ProxySocketHandler object at 0x0000019271C73978> dialog:node0 open!

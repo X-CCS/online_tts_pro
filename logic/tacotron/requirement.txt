@@ -1,0 +1,17 @@
+librosa==0.7.2
+llvmlite==0.32.1
+matplotlib
+PyAudio==0.2.11
+pypinyin==0.37.0
+scikit-learn==0.23.0
+scipy==1.4.1
+SoundFile==0.10.3.post1
+sox
+tensorboard==1.15.0
+tensorflow==1.15.0
+torch==1.5.0+cu101
+torch-stft
+torchvision==0.6.0+cu101
+tqdm
+Unidecode==1.1.1
+wrapt==1.12.1

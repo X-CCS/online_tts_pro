@@ -1,0 +1,17 @@
+Building prefix dict from the default dictionary ...
+2021-09-27 08:02:06,202 - jieba - DEBUG - Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+2021-09-27 08:02:06,203 - jieba - DEBUG - Loading model from cache /tmp/jieba.cache
+Loading model cost 4.051 seconds.
+2021-09-27 08:02:10,254 - jieba - DEBUG - Loading model cost 4.051 seconds.
+Prefix dict has been built successfully.
+2021-09-27 08:02:10,254 - jieba - DEBUG - Prefix dict has been built successfully.
+2021-09-27 08:02:11,071 - ProsodyPred - DEBUG - Loaded pretrained model in 0.4059s
+2021-09-27 08:02:11,071 - ProsodyPred - DEBUG - Number of Parameters: 10651874
+2021-09-27 08:02:11,071 - ProsodyPred - DEBUG - Number of Trainable Parameters: 403474
+2021-09-27 08:02:12,485 - ProsodyPred - DEBUG - Loaded pretrained model in 0.7894s
+2021-09-27 08:02:12,486 - ProsodyPred - DEBUG - Number of Parameters: 10651874
+2021-09-27 08:02:12,486 - ProsodyPred - DEBUG - Number of Trainable Parameters: 403474
+2021-09-27 08:02:13,899 - ProsodyPred - DEBUG - Loaded pretrained model in 0.5085s
+2021-09-27 08:02:13,899 - ProsodyPred - DEBUG - Number of Parameters: 10651874
+2021-09-27 08:02:13,899 - ProsodyPred - DEBUG - Number of Trainable Parameters: 403474
